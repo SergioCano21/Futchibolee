@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ball
+  - Ground
+  - terreno
+  - Goal Detector
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ball
+  - Water
+  - UI
+  - Player
+  - Goal
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2133811923
+    locked: 0
+  - name: Goal Side Back
+    uniqueID: 12207047
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Goal Side
+    uniqueID: 1476333737
+    locked: 0
